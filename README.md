@@ -1,4 +1,4 @@
-# Projet2_IML_Sante_publique
+# Projet n°2 - IML - Application de santé publique
 Projet d'analyse de données. 
 
 On a récupéré un jeu de données sur Open Food Facts, contenant des informations sur divers produits trouvés dans le commerce.
