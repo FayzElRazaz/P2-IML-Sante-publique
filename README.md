@@ -6,8 +6,8 @@ Nous faisons au sein de ce projet l'étude statistique de ce jeu de données apr
 
 L'objectif du projet était de présenter une idée d'application utilisant les données traitées. Nous avons proposé une application reprenant l'idée du nutriscore en ajoutant un impact environnemental en considérant les matériaux du packaging des biens de consommations.  
 
-#Dataset
+# Dataset
 https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-scientist/P2/fr.openfoodfacts.org.products.csv.zip
 
-#Install python packages
+# Install python packages
 pip3 install -r requirements.txt
